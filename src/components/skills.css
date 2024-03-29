@@ -1,0 +1,58 @@
+@import url('https://www.w3schools.com/icons/fontawesome5_icons_buildings.asp');
+#about{
+    overflow: hidden;
+    width: 100rw;
+    max-width: 75rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.aboutTitle{
+ font-size: 3rem;
+ font-weight: 600;
+ padding-top: 3rem;
+ margin-bottom: 1.5rem;
+
+}
+
+.aboutDesc{
+    font-weight: 300;
+    font-size:medium;
+    max-width:75rem;
+    
+    letter-spacing: 1px;
+
+}
+.interactive-icons {
+    display: flex;
+    font-size: medium;
+    gap: 20px;
+   
+    margin: 20px;
+  }
+  .col-lg-6{
+    display: flex;
+  
+
+  }
+  .abtMe{
+    font-weight: 300;
+    font-size:medium;
+    max-width:75rem;
+    
+    letter-spacing: 1px;
+  }
+.skillTitle{
+  font-size: 3rem;
+ font-weight: 600;
+ padding-top: 3rem;
+ margin-bottom: 1.5rem;
+ 
+ .row col-lg-6{
+  display:flex;
+  margin: 2rem;
+ }
+}
+ 

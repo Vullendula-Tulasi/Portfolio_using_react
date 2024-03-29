@@ -1,0 +1,17 @@
+#technologies{
+    overflow: hidden;
+    width: 100rw;
+    max-width: 75rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.title{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+   
+   }
